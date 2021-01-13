@@ -20,7 +20,7 @@ To gain access to and create new files in this repo:
 4. You can now "Create new file" and commit changes in IntroSciComp main
 
 ## To dowload labs
-Navigate to the lab you want to download in the course materials folder
-Click on the lab
-Right click on the "raw" button on the top and choose "save as" and save the notebook on your computer
-Open this saved .ipynb file on your computer as a jupyter notbook (you may need to change the extension by deleting the .txt)
+- Navigate to the lab you want to download in the course materials folder
+- Click on the lab
+- Right click on the "raw" button on the top and choose "save as" and save the notebook on your computer
+- Open this saved .ipynb file on your computer as a jupyter notbook (you may need to change the extension by deleting the .txt)
